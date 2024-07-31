@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosEloi&show_icons=true&theme=tokyonight)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErosEloi&repo=projeto_todolist&theme=tokyonight)]([https://github.com/ErosEloi/Projeto_SiteVendedor](https://github.com/ErosEloi/projeto_todolist))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErosEloi&repo=projeto_todolist&theme=tokyonight)]([https://github.com/ErosEloi/projeto_todolist](https://github.com/ErosEloi/projeto_todolist))
 
 ## Minhas Redes Sociais
 [<image src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Likedin' height= '30'>](https://www.linkedin.com/in/eros-eloi-493813241/)
